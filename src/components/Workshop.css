@@ -1,0 +1,13 @@
+.workshop-div{
+    background-color: black;
+    color: blue;
+    padding: 10%;
+    box-shadow: 1px; 
+    
+}
+.workshop-div h1{
+    color: rgb(240, 241, 241);
+}
+.workshop-div p{
+    color: rgb(20, 199, 50);
+}

@@ -1,0 +1,9 @@
+.Home{
+
+    background: url('../cyberSolutions.jpg') no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 50px;
+    align-items: center;
+    justify-content: space-between;
+}

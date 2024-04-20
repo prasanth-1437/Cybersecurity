@@ -1,0 +1,31 @@
+.Service1{
+    color: aliceblue;
+    background: url('../lock.jpg') no-repeat;
+    background-size: cover;
+    height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.glass-container{
+    height:520px;
+    width:350px;
+    padding: 30px 50px;
+    border-radius: 50px;
+    background-color: rgba(255, 255, 255,0.027);
+    backdrop-filter: blur(7px);
+    border-top: 1px solid rgba(255, 255, 255,0.4);
+    border-left: 1px solid rgba(255, 255, 255,0.3);
+    box-shadow: 5px 3px 3px rgba(255, 0, 0,0.027);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 185%;
+}

@@ -1,0 +1,23 @@
+.Footer{
+    background-color: #222222;
+    color: antiquewhite;
+    padding: 10x;
+    bottom: 0;
+    width: 100%;
+}
+.Foot-container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 10px;
+}
+.footer-inner{
+    padding-left: 15px;
+}
+
+@media screen and (max-width:769px){
+    .Foot-container{
+        display: flex;
+        flex-direction: column;
+    }
+}
